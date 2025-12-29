@@ -1,16 +1,24 @@
-#React + Vite
+# React CustomFetch Store 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive e-commerce storefront built with **React** and **Vite**. This project demonstrates how to handle asynchronous data fetching using custom hooks and external JSON hosting.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[View Live Site on Netlify](https://your-site-name.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- **Custom Fetch Hook**: Centralized logic for handling API calls, loading states, and error handling.
+- **External Data Integration**: Product data is fetched dynamically from a hosted JSON source.
+- **Responsive Design**: Optimized for mobile, tablet, and desktop views.
+- **Vite-Powered**: Fast Development and optimized production builds.
 
-## React Compiler
+## 🛠️ Tech Stack
+- **Frontend**: React.js (Hooks, Functional Components)
+- **Styling**: CSS3 / Tailwind (optional: mention if used)
+- **Data Hosting**: GitHub Gist / Raw JSON
+- **Deployment**: Netlify
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 Installation & Setup
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/your-username/React-CustomFetch.git](https://github.com/your-username/React-CustomFetch.git)
