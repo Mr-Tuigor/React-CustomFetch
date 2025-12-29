@@ -3,7 +3,7 @@
 A modern, responsive e-commerce storefront built with **React** and **Vite**. This project demonstrates how to handle asynchronous data fetching using custom hooks and external JSON hosting.
 
 ## Live Demo .
-[View Live Site on Netlify]([https://your-site-name.netlify.app](https://myreactcustomhook.netlify.app/))
+[View Live Site on Netlify]([https://your-site-name.netlify.app](https://myreactcustomhook.netlify.app/])
 
 ## Featuree
 - **Custom Fetch Hook**: Centralized logic for handling API calls, loading states, and error handling.
